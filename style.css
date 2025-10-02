@@ -1,0 +1,30 @@
+h1 
+{
+text-align: center;
+background-color: lightgreen;
+border-radius: 12px;
+}
+
+table 
+{
+border-collapse: collapse; width: 1300px;
+}
+
+tr, td, th 
+{
+border: 1px solid;
+padding: 12px; 
+text-align: left;
+}
+
+div 
+{
+text-align: center;
+background-color: lightgreen;
+border-radius: 12px;
+}
+
+iframe 
+{
+border-radius: 10px;
+}
